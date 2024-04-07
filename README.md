@@ -1,4 +1,4 @@
-# Project Title
+# DAGOR
 
 DAGOR: Learning DAGs via Topological Sorts and QR~Factorization
 
